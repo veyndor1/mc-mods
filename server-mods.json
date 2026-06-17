@@ -1,0 +1,182 @@
+﻿{
+    "mods":  [
+                 {
+                     "name":  "Baubles-1.12-1.5.2.jar",
+                     "fileName":  "Baubles-1.12-1.5.2.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/mods/Baubles-1.12-1.5.2.jar",
+                     "sha1":  "cb13fcfb18a9cb0cbd825fd5fe8d813c77368549",
+                     "size":  108450
+                 },
+                 {
+                     "name":  "BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar",
+                     "fileName":  "BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/mods/BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar",
+                     "sha1":  "6f281febea0746d2229f692cb719bd017ec70b32",
+                     "size":  4702147
+                 },
+                 {
+                     "name":  "blockbuster-2.7.1-1.12.2.jar",
+                     "fileName":  "blockbuster-2.7.1-1.12.2.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/mods/blockbuster-2.7.1-1.12.2.jar",
+                     "sha1":  "6bd1b06c68f5fba9d2feb951302f262d5f76fa47",
+                     "size":  1965333
+                 },
+                 {
+                     "name":  "CustomNPCs_1.12.2-(05Jul20).jar",
+                     "fileName":  "CustomNPCs_1.12.2-(05Jul20).jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/mods/CustomNPCs_1.12.2-(05Jul20).jar",
+                     "sha1":  "a5469076df8b1d9db4e483131dc94e270b8bc7cd",
+                     "size":  9911871
+                 },
+                 {
+                     "name":  "Decocraft-2.6.3.7_1.12.2.jar",
+                     "fileName":  "Decocraft-2.6.3.7_1.12.2.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/mods/Decocraft-2.6.3.7_1.12.2.jar",
+                     "sha1":  "e226ed02e3181aca765a52cee7bad8865d93815b",
+                     "size":  16976718
+                 },
+                 {
+                     "name":  "ElectroblobsWizardry-4.3.15.jar",
+                     "fileName":  "ElectroblobsWizardry-4.3.15.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/mods/ElectroblobsWizardry-4.3.15.jar",
+                     "sha1":  "6f4f0e32c6405be7e722af3679eb4fd0ac3b474f",
+                     "size":  10963411
+                 },
+                 {
+                     "name":  "Fakename MC1.12.2 v1.2.jar",
+                     "fileName":  "Fakename MC1.12.2 v1.2.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/mods/Fakename%20MC1.12.2%20v1.2.jar",
+                     "sha1":  "92ba948a060048074039d4af21152abde5d9f0d6",
+                     "size":  20036
+                 },
+                 {
+                     "name":  "Immersive Vehicles-1.12.2-23.0.0.jar",
+                     "fileName":  "Immersive Vehicles-1.12.2-23.0.0.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/mods/Immersive%20Vehicles-1.12.2-23.0.0.jar",
+                     "sha1":  "54f004901dd5fd099ffe470522aa6fafef3354f9",
+                     "size":  6880758
+                 },
+                 {
+                     "name":  "mappet-0.9-1.12.2.jar",
+                     "fileName":  "mappet-0.9-1.12.2.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/mods/mappet-0.9-1.12.2.jar",
+                     "sha1":  "e569db147df0561dea3fa6826bfcdffde7d68d64",
+                     "size":  2456951
+                 },
+                 {
+                     "name":  "mclib-2.4.3-1.12.2.jar",
+                     "fileName":  "mclib-2.4.3-1.12.2.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/mods/mclib-2.4.3-1.12.2.jar",
+                     "sha1":  "450948175153effc4f30f593a12ae0d8f6421873",
+                     "size":  767461
+                 },
+                 {
+                     "name":  "metamorph-1.4-1.12.2.jar",
+                     "fileName":  "metamorph-1.4-1.12.2.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/mods/metamorph-1.4-1.12.2.jar",
+                     "sha1":  "108567e4887640f8b6154e7d91c9c75bc7e5c8cf",
+                     "size":  421252
+                 },
+                 {
+                     "name":  "MTS Official Pack-1.12.2-V28.2.jar",
+                     "fileName":  "MTS Official Pack-1.12.2-V28.2.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/mods/MTS%20Official%20Pack-1.12.2-V28.2.jar",
+                     "sha1":  "b6a1f7d06acc1c579bd76e4ec3c98c08b02d6d97",
+                     "size":  89201487
+                 },
+                 {
+                     "name":  "nashorn.jar",
+                     "fileName":  "nashorn.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/mods/nashorn.jar",
+                     "sha1":  "7850e9b291388ca101c2d464a9594356addaac62",
+                     "size":  2022531
+                 },
+                 {
+                     "name":  "OAmP-1.12.2-V2.jar",
+                     "fileName":  "OAmP-1.12.2-V2.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/mods/OAmP-1.12.2-V2.jar",
+                     "sha1":  "84b746e97b93b8b9eead5be0026d2da770d9f708",
+                     "size":  21047707
+                 },
+                 {
+                     "name":  "OptiFine-1.12.2_HD_U_G5.jar",
+                     "fileName":  "OptiFine-1.12.2_HD_U_G5.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/mods/OptiFine-1.12.2_HD_U_G5.jar",
+                     "sha1":  "db971767e460269f2317bb5df57d8f522be65e2c",
+                     "size":  2457427
+                 },
+                 {
+                     "name":  "PTRLib-1.0.5.jar",
+                     "fileName":  "PTRLib-1.0.5.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/mods/PTRLib-1.0.5.jar",
+                     "sha1":  "c33ddf5660c2a1c39537bd6552b2cdd73b654e18",
+                     "size":  169749
+                 },
+                 {
+                     "name":  "tlskincape1.12.2-1.4.jar",
+                     "fileName":  "tlskincape1.12.2-1.4.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/mods/tlskincape1.12.2-1.4.jar",
+                     "sha1":  "d0483ac68cbeea22d6a2c46984c4cc7de4d3ce42",
+                     "size":  193898
+                 },
+                 {
+                     "name":  "Vampirism-1.12.2-1.6.2.jar",
+                     "fileName":  "Vampirism-1.12.2-1.6.2.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/mods/Vampirism-1.12.2-1.6.2.jar",
+                     "sha1":  "a1ac0161fca6236ebac14c0fec8b57a66937be04",
+                     "size":  9399500
+                 },
+                 {
+                     "name":  "WearableBackpacks-RLCraft-1.12.2-3.2.6.jar",
+                     "fileName":  "WearableBackpacks-RLCraft-1.12.2-3.2.6.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/mods/WearableBackpacks-RLCraft-1.12.2-3.2.6.jar",
+                     "sha1":  "2189a5d62455221cbce7f83b1839ebfe5553cd98",
+                     "size":  503299
+                 },
+                 {
+                     "name":  "worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar",
+                     "fileName":  "worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/mods/worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar",
+                     "sha1":  "057b9b4d63e223a0f754b556fd3a56aaa87a1489",
+                     "size":  1479104
+                 },
+                 {
+                     "name":  "[1.12.2] SecurityCraft v1.10.1.jar",
+                     "fileName":  "[1.12.2] SecurityCraft v1.10.1.jar",
+                     "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/mods/%5B1.12.2%5D%20SecurityCraft%20v1.10.1.jar",
+                     "sha1":  "47532d6720f2309b815253936d79c1f29986de19",
+                     "size":  4265305
+                 }
+             ],
+    "models":  [
+                   {
+                       "name":  "Mjolnir",
+                       "files":  [
+                                     {
+                                         "fileName":  "Mjolnir/Mjolnir.mtl",
+                                         "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/models/Mjolnir/Mjolnir.mtl",
+                                         "sha1":  "e7d4adaa270f5895e27b1ad9670e7be9e2ff6ad2",
+                                         "size":  290
+                                     },
+                                     {
+                                         "fileName":  "Mjolnir/Mjolnir.obj",
+                                         "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/models/Mjolnir/Mjolnir.obj",
+                                         "sha1":  "06b7df8ad52996f739d89946b26d793bec412edf",
+                                         "size":  944526
+                                     },
+                                     {
+                                         "fileName":  "Mjolnir/Mjolnirmetal_baseColor.png",
+                                         "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/models/Mjolnir/Mjolnirmetal_baseColor.png",
+                                         "sha1":  "c3900a9c764500961d53edf7eedb6ed48509373b",
+                                         "size":  9525120
+                                     },
+                                     {
+                                         "fileName":  "Mjolnir/model.json",
+                                         "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/models/Mjolnir/model.json",
+                                         "sha1":  "39f7e6bd0a17de0976556f258d6db67a2a38df4d",
+                                         "size":  2952
+                                     }
+                                 ]
+                   }
+               ]
+}
