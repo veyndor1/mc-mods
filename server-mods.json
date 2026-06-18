@@ -149,34 +149,6 @@
                  }
              ],
     "models":  [
-                   {
-                       "name":  "Mjolnir",
-                       "files":  [
-                                     {
-                                         "fileName":  "Mjolnir/Mjolnir.mtl",
-                                         "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/models/Mjolnir/Mjolnir.mtl",
-                                         "sha1":  "e7d4adaa270f5895e27b1ad9670e7be9e2ff6ad2",
-                                         "size":  290
-                                     },
-                                     {
-                                         "fileName":  "Mjolnir/Mjolnir.obj",
-                                         "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/models/Mjolnir/Mjolnir.obj",
-                                         "sha1":  "06b7df8ad52996f739d89946b26d793bec412edf",
-                                         "size":  944526
-                                     },
-                                     {
-                                         "fileName":  "Mjolnir/Mjolnirmetal_baseColor.png",
-                                         "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/models/Mjolnir/Mjolnirmetal_baseColor.png",
-                                         "sha1":  "c3900a9c764500961d53edf7eedb6ed48509373b",
-                                         "size":  9525120
-                                     },
-                                     {
-                                         "fileName":  "Mjolnir/model.json",
-                                         "url":  "https://raw.githubusercontent.com/veyndor1/mc-mods/main/models/Mjolnir/model.json",
-                                         "sha1":  "39f7e6bd0a17de0976556f258d6db67a2a38df4d",
-                                         "size":  2952
-                                     }
-                                 ]
-                   }
+
                ]
 }
